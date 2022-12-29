@@ -1,0 +1,18 @@
+{
+  "name": "normalnamedeedeeg109273",
+  "main": "./lib/normalnamedeedeeg109273",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "normalnamedeedeeg109273:toggle"
+  },
+  "repository": "https://github.com/atom/normalnamedeedeeg109273",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

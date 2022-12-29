@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle normalnamedeedeeg109273'
+      'command': 'normalnamedeedeeg109273:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'normalnamedeedeeg109273'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'normalnamedeedeeg109273:toggle'
+        }
+      ]
+    ]
+  }
+]
