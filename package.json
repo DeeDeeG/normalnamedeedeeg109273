@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "normalnamedeedeeg109273:toggle"
   },
-  "repository": "https://github.com/atom/normalnamedeedeeg109273",
+  "repository": "https://github.com/DeeDeeG/normalnamedeedeeg109273",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
